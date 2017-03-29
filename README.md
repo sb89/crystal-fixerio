@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   fixerio:
-    github: [sb89]/crystal-fixerio
+    github: sb89/crystal-fixerio
 ```
 
 ## Usage
@@ -63,4 +63,4 @@ p rates.currencies.brl
 
 ## Contributors
 
-- [[sb89]](https://github.com/[your-github-name]) Steven Blake - creator, maintainer
+- sb89 (https://github.com/sb89) Steven Blake - creator, maintainer
