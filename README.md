@@ -1,4 +1,5 @@
 # fixerio
+[![Build Status](https://img.shields.io/travis/sb89/crystal-fixerio/master.svg)](https://travis-ci.org/sb89/crystal-fixerio)
 
 fixer.io wrapper in Crystal.
 
@@ -55,7 +56,7 @@ p rates.currencies.brl
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/fixerio/fork )
+1. Fork it ( https://github.com/sb89/fixerio/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
